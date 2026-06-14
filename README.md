@@ -69,19 +69,23 @@ Future Date Restriction for Date of Birth
 Patient ID Validation
 Numeric Input Validation
 Error Handling for Invalid Records
-📊 CRUD Operations
-Create
 
+📊 CRUD Operations
+
+Create
 Add a new patient and generate a health risk prediction.
 
 Read
-
 View all patient records and search patients by name.
 
 Update
-
 Update patient health information and recalculate health risk prediction.
 
 Delete
-
 Delete patient records using Patient ID.
+
+🚀 How to Run
+Install Dependencies
+pip install -r requirements.txt
+Run Application
+streamlit run app.py
